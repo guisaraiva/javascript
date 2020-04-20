@@ -6,6 +6,6 @@
 
 
 ### Tópicos:
-✔ Fundamentos
-✔ Estrutura de controle
-✔ Funções
+- ✔ Fundamentos
+- ✔ Estrutura de controle
+- ✔ Funções
