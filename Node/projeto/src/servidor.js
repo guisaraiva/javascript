@@ -17,7 +17,7 @@ app.get('/produtos/:id', (req, res, next) =>{
 
 app.post('/produtos', (req, res, next) =>{
     const produto = bancoDeDados.salvaProduto({
-        nome: req.body.name,
+        nome: req.body.nome,
         preco: req.body.preco
     })
     res.send(produto) //Converter em JSON

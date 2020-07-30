@@ -1,7 +1,7 @@
 const sequence = {
     _id: 1,
     get id() {
-        return this.id++
+        return this._id++
     }
 }
 
